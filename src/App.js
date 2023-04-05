@@ -20,7 +20,7 @@ function App() {
     } else {
       alert("Por favor, ingrese valores numéricos para realizar el cálculo.")
     }
-  }
+  };
 
 
   return (
